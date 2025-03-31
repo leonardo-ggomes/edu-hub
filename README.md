@@ -2,6 +2,8 @@
 
 Edu-Hub é uma plataforma online dedicada a fornecer recursos educacionais de alta qualidade para estudantes e educadores. Desenvolvida com tecnologias web modernas, a plataforma oferece uma variedade de materiais e ferramentas para aprimorar o processo de ensino e aprendizagem.
 
+<img src="eduhub_print.png" />
+
 ## Índice
 
 - [Introdução](#introdução)
